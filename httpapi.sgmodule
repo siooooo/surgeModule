@@ -1,3 +1,4 @@
 #!name=activate http-api
 
-http-api = sesyc136@0.0.0.0:6171
+[General]
+http-api = sesyc@0.0.0.0:6171

@@ -1,4 +1,6 @@
 #!name=activate http-api
 
 [General]
+
+http-api-web-dashboard = true
 http-api = sesyc@0.0.0.0:6171
